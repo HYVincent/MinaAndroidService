@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MinaAndroidService</string>
+
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="input">please input an exp</string>
+    <string name="result">Result is: (%l$s)</string>
+    <string name="cal">Calculat</string>
+
+</resources>
